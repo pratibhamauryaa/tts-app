@@ -58,7 +58,7 @@ pip install -r requirements.txt
 
 Run the Application:
 
-Navigate to the backend folder:cd backend
+
 
 
 Start the Flask server:python app.py
